@@ -1,4 +1,6 @@
-/ TODO: REMOVE, PARTIAL UPDATE all are open to level 1 user only
+
+/** This file is about Collective CRUD, The code below of delete files were written by Bo**/
+
 /** Collective CRUD **/
 var Collective = require('../models/collective');
 

@@ -1,3 +1,5 @@
+/** The collectives parts were written by Bo **/
+
 // Load required packages
 var express = require('express');
 var mongoose = require('mongoose');
